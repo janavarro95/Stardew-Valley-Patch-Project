@@ -49,3 +49,9 @@ A:As much as I would love to make sure that everyone can enjoy my patch, the iss
 
 Q:Can I use your source code to make my own version of Stardew Valley?
 A:Sure, feel free! Just make sure you own a legitamate copy and give credit for the ground work.
+
+
+
+Disclaimers:
+I own a legitimate copy of Stardew Valley on Steam. This is 100% a fan patch and is no way affiliated with ConcernedApe. All rights to Stardew Valley belong to ConcernedApe and I greatly enjoy his work. Should I ever be contacted by ConcernedApe to remove the Stardew Valley Patch Project I will as to avoid any sort of legal issues.
+I as zippy199522/Alpha_Omegasis take absolutely no legal responsibility for anyone who decides to redistribute any of my work. Redistributing Stardew Valley in any for such as original/edited/source_code/executable is heavily discouraged against and doing so may net you in some form of trouble. Please take care not do do anything that could get you in trouble. I devised my patch system in such a way that people needed the original files in order to get this to work and to avoid out right piracy. Simply put, be smart and be safe. 
